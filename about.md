@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi,
 
-### More Information
+Thanks for dropping by!
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a IT engineer by profession. I help build data driven solutions. I call myself 'Philomath'. 
 
+hI like to read about Poetry, Analytics, Defence technologies, Geo-politics, Foreign Policies & Travelling
+
+I love to explore the world but still, 127.0.0.1 is my favourite place.
+
+
+ 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gupta.nitin015@gmail.com](mailto:gupta.nitin015@gmail.com)
