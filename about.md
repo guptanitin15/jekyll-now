@@ -6,10 +6,9 @@ permalink: /about/
 
 Hi,
 
-I am a IT engineer by profession based in Gurgaon India. I help build data driven solutions.  
-I like to read about Poetry, Analytics, Defence technologies, Geo-politics, Foreign Policies & Travelling
+I am an Software engineer by profession based in Gurgaon India. I help build data driven solutions. In my free time, I love to read about variety of subjects and trek in Indian Himalayas. On academic side, I did my B.Tech as Computer Science Major from Jaipur Engg. College & Research Centre (Jaipur).
 
-I love to explore the world but still, 127.0.0.1 is my favourite place.
+I love to explore the world but still, [127.0.0.1] (https://en.wikipedia.org/wiki/Localhost) is my favourite place.
 
 
  
