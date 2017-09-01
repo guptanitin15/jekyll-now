@@ -11,7 +11,7 @@ I am an Software engineer by profession based in Gurgaon India. I help build dat
 
 On academic side, I did my B.Tech as Computer Science Major from Jaipur Engg. College & Research Centre (Jaipur).
 
-I love to explore the world but still, [127.0.0.1] (https://en.wikipedia.org/wiki/Localhost) is my favourite place.
+I love to explore the world but still,[127.0.0.1](https://en.wikipedia.org/wiki/Localhost) is my favourite place.
 
 
  
